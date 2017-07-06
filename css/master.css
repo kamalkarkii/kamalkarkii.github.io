@@ -1,0 +1,20 @@
+.social_icon{
+  position: absolute;
+  top:50px;
+  right:0px;
+  font-size: 30px;
+
+}
+.fa:hover{
+  font-size: 50px;
+  background-color: green;
+}
+.quote{
+  font-size: 40px;
+  padding:30px;
+  background-attachment: fixed;
+  color: white;
+  text-align: center;
+  font-style: italic;
+  background-image: url("https://cdn.pixabay.com/photo/2016/10/04/08/58/theater-1713816_960_720.jpg")
+}
