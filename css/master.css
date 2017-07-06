@@ -18,3 +18,20 @@
   font-style: italic;
   background-image: url("https://cdn.pixabay.com/photo/2016/10/04/08/58/theater-1713816_960_720.jpg")
 }
+.gallary_container{
+  position: relative;
+
+}
+.images{
+
+}
+.discription{
+  position: absolute;
+  background-color: #808080;
+  color:white;
+  padding:10px;
+  opacity: 0.8;
+  bottom:0px;
+  width:100%;
+  font-weight: 900;
+}
